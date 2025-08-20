@@ -1,4 +1,4 @@
-📊 Gifting Sales Dashboard Analysis (Excel)
+##📊 Gifting Sales Dashboard Analysis (Excel)
 
 ## 📌 **Project Overview**
 
